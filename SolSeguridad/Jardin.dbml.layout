@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Jardin">
+  <DataContextMoniker Name="/JardinDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f3c900bd-06ec-4547-a0e7-0a4354227377" absoluteBounds="4.375, 2.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/JardinDataContext/Administrador" />
+      <nestedChildShapes>
+        <elementListCompartment Id="721a610b-9031-424f-a015-e166d8399459" absoluteBounds="4.3900000000000006, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
